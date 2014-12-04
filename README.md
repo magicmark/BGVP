@@ -1,0 +1,4 @@
+BGVP
+====
+
+Backgammon Variant Player
